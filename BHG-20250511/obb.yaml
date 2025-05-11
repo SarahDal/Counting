@@ -1,0 +1,17 @@
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: BHG
+  1: BHG-FLY
+  2: CA
+  3: EI
+  4: EI-M
+  5: FU
+  6: KW
+  7: KW-FLY
+  8: PU
+  9: SHEL
+  10: TE
+  11: TE-FLY
